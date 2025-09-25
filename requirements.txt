@@ -1,0 +1,27 @@
+# nlp & embedding
+spacy>=3.5.4
+nltk>=3.8.1
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4
+
+# document handling
+pdfplumber>=0.10.0
+PyMuPDF>=1.22.5
+python-docx>=0.8.11
+beautifulsoup4>=4.12.2
+pytesseract>=0.3.10
+
+# data & analysis
+pandas>=2.1.1
+numpy>=1.26.4
+
+# dashboard & visualization
+streamlit>=1.28.0
+plotly>=5.20.0
+matplotlib>=3.8.0
+
+# export
+pdfkit>=1.0.0
+
+# utilities
+requests>=2.31.0

@@ -1,0 +1,4 @@
+report_name,compliance_score,risk_score,benchmark_score,rank,Environmental,Social,Governance
+sample.docx,50.0,0.0,50.0,2,16.67,33.33,100
+sample.html,72.22,0.0,72.22,1,16.67,100.0,100
+sample.pdf,50.0,0.0,50.0,2,16.67,33.33,100

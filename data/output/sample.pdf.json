@@ -1,0 +1,29 @@
+[
+  {
+    "sentence": "Our carbon emissions reduction target is 30% by 2030.",
+    "category": [
+      "Environmental"
+    ],
+    "entities": [
+      {
+        "entity": "carbon emissions",
+        "value": "30",
+        "unit": "%"
+      },
+      {
+        "entity": "carbon emissions",
+        "value": "2030",
+        "unit": null
+      }
+    ],
+    "greenwashing": false
+  },
+  {
+    "sentence": "Diversity and inclusion remain a core part of our governance.",
+    "category": [
+      "Social"
+    ],
+    "entities": [],
+    "greenwashing": false
+  }
+]

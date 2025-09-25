@@ -1,0 +1,6 @@
+report_name,sentence,category,entities,greenwashing
+sample.docx,Our carbon emissions reduction target is 30% by 2030.,Environmental,carbon emissions: 30%; carbon emissions: 2030,False
+sample.docx,Diversity and inclusion remain a core part of our governance.,Social,,False
+sample.html,Our biodiversity programs protect local ecosystems.,Environmental,,False
+sample.pdf,Our carbon emissions reduction target is 30% by 2030.,Environmental,carbon emissions: 30%; carbon emissions: 2030,False
+sample.pdf,Diversity and inclusion remain a core part of our governance.,Social,,False
