@@ -103,7 +103,6 @@ pip install -r requirements.txt
 
 ```
 streamlit run dashboard/app.py
-
 ```
 
 5. **upload a report and view compliance results**
