@@ -7,6 +7,7 @@ it's an **end to end python solution, 100% open source, and production ready**
 ![Python](https://img.shields.io/badge/python-blue)
 ![Greenwashing Detector](https://img.shields.io/badge/greenwashing-🚫-red)
 ![Big4 Ready](https://img.shields.io/badge/big4-ready-✨)
+![Data Geek](https://img.shields.io/badge/data%20geek-📊-blue)
 ---
 
 ## project overview
