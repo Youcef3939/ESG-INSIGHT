@@ -86,9 +86,8 @@ ingestion --> NLP --> scoring --> dashboard
 ```bash
 
 git clone https://github.com/Youcef3939/ESG_Insight.git
-
-```
 cd ESG_Insight
+```
 
 2. **install dependencies**
 
