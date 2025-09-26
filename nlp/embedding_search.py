@@ -51,9 +51,3 @@ def semantic_tag_sentences(text, threshold=0.3):
         if matched_cats:
             tagged.append({'sentence': sentences[idx], 'category': list(matched_cats)})
     return tagged
-
-if __name__ == "__main__":
-    test_text = "We reduced water consumption by 20% and invested in solar energy."
-    result = semantic_tag_sentences(test_text)
-    for r in result:
-        print(r)
